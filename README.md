@@ -5,7 +5,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuliuzCS&theme=dark&background=0D2818&ring=228B22&fire=228B22&currStreakNum=228B22&currStreakLabel=228B22&sideNums=228B22&sideLabels=9E9E9E&dates=9E9E9E&hide_border=true)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliuzCS&hide_border=true&show_icons=true&bg_color=0D2818&title_color=228B22&icon_color=228B22&text_bold=false&text_color=9E9E9E)
+![Your GitHub stats](https://github-stats-extended.vercel.app/api?username=JuliuzCS&hide_border=true&show_icons=true&bg_color=0D2818&title_color=228B22&icon_color=228B22&text_bold=false&text_color=9E9E9E)
 <!--
 **JuliuzCS/JuliuzCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
