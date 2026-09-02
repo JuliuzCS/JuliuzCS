@@ -1,5 +1,5 @@
 ## Hi there, I'm Juliuz Salazar 👋
-![](https://komarev.com/ghpvc/?username=your-github-JuliuzCS)****
+![](https://komarev.com/ghpvc/?username=your-github-JuliuzCS)
 
 <!--
 **JuliuzCS/JuliuzCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
