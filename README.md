@@ -3,9 +3,9 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JuliuzCS&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuliuzCS&theme=dark&background=0D2818&ring=228B22&fire=228B22&currStreakNum=228B22&currStreakLabel=228B22&sideNums=228B22&sideLabels=9E9E9E&dates=9E9E9E&hide_border=true)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliuzCS&hide_border=true&show_icons=true&bg_color=228B22&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliuzCS&hide_border=true&show_icons=true&bg_color=0D2818&title_color=228B22&icon_color=228B22&text_bold=false&text_color=9E9E9E)
 <!--
 **JuliuzCS/JuliuzCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
